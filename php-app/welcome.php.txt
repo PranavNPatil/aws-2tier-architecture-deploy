@@ -55,8 +55,8 @@ if (!isset($_SESSION['user'])) {
 </head>
 <body>
     <div class="welcome-container">
-        WELCOME TO MY AWS 3 TIER ARCHITECTURE<br>
-        CREATED BY ANIKET TALWEKAR
+        WELCOME TO MY AWS 2 TIER ARCHITECTURE<br>
+        CREATED BY Pranav Patil
         <br><a href="logout.php">Logout</a>
     </div>
 </body>
